@@ -15,6 +15,10 @@ public class Menu {
     public void añAzucar(){
         
     }
+    
+    public void seguir(){
+        
+    }
     /**
      * @param args the command line arguments
      */
